@@ -1,0 +1,4 @@
+.Rproj.user
+*RcppExports*
+*.so
+*.o
